@@ -3,7 +3,7 @@
 ウェブ開発者
 
 - 📧 **メール** : [vhd42@naver.com]
-- 💻 GitHub : [https://github.com/azerty25611]
+- 💻 **GitHub** : [https://github.com/azerty25611]
 
 <br>
 
